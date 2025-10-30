@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+    <script src="index.js"></script>
+</head>
+<body>
+<div id="calculator" style="display: flex; gap: 10px;">
+    <input type="number" id="inputNumA" style="height: 20px; width: 85px">
+    <p id="operator" style="height: 10px; margin-top: 5px">
+        _
+    </p>
+    <input type="number" id="inputNumB" style="height: 20px; width: 85px">
+    <input type="button" value="=" onclick="Solve()" style="height: 25px">
+    <p id="result" style="height: 10px; width: 25px; margin-top: 5px">
+        Result
+    </p>
+</div>
+<div>
+    <input type="button" onclick="SetOperation('+')" id="+" value="+" style="height: 25px; width: 25px">
+    <input type="button" onclick="SetOperation('-')" id="-" value="-" style="height: 25px; width: 25px">
+    <input type="button" onclick="SetOperation('*')" id="*" value="*" style="height: 25px; width: 25px">
+    <input type="button" onclick="SetOperation('/')" id="/" value="/" style="height: 25px; width: 25px">
+</div>
+</body>
+</html>
