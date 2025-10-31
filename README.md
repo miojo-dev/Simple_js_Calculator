@@ -1,5 +1,9 @@
 # Simple_js_Calculator
 
+Simple calculator made in Javascript
+
+Project made for study porpuses
+
 ## 🧪 Tecnologies Used
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
