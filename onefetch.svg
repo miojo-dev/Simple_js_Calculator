@@ -47,7 +47,7 @@ text {
 <text class="crt" x="226.8" y="68" fill="#FEFEFE" textLength="16.8" lengthAdjust="spacing" style="font-weight:bold;">##</text>
 <text class="crt" x="319.2" y="68" fill="#F63B3B" textLength="33.6" lengthAdjust="spacing" style="font-weight:bold;">HEAD</text>
 <text class="crt" x="352.8" y="68" fill="#FEFEFE" textLength="8.4" lengthAdjust="spacing" style="font-weight:bold;">:</text>
-<text class="crt" x="369.6" y="68" fill="#d4d4d4" textLength="58.8" lengthAdjust="spacing">2e0cf7f</text>
+<text class="crt" x="369.6" y="68" fill="#d4d4d4" textLength="58.8" lengthAdjust="spacing">4d348c3</text>
 <text class="crt" x="436.8" y="68" fill="#d4d4d4" textLength="50.4" lengthAdjust="spacing">(main,</text>
 <text class="crt" x="495.6" y="68" fill="#d4d4d4" textLength="100.8" lengthAdjust="spacing">origin/main)</text>
 <text class="crt" x="16.8" y="86" fill="#FEFEFE" textLength="16.8" lengthAdjust="spacing" style="font-weight:bold;">##</text>
@@ -78,12 +78,12 @@ text {
 <text class="crt" x="0" y="140" fill="#F63B3B" textLength="294" lengthAdjust="spacing" style="font-weight:bold;">(((((((((((((((((/////////////(((((</text>
 <text class="crt" x="319.2" y="140" fill="#F63B3B" textLength="58.8" lengthAdjust="spacing" style="font-weight:bold;">Authors</text>
 <text class="crt" x="378" y="140" fill="#FEFEFE" textLength="8.4" lengthAdjust="spacing" style="font-weight:bold;">:</text>
-<text class="crt" x="394.8" y="140" fill="#d4d4d4" textLength="25.2" lengthAdjust="spacing">62%</text>
+<text class="crt" x="394.8" y="140" fill="#d4d4d4" textLength="25.2" lengthAdjust="spacing">64%</text>
 <text class="crt" x="428.4" y="140" fill="#d4d4d4" textLength="159.6" lengthAdjust="spacing">github-actions[bot]</text>
-<text class="crt" x="596.4" y="140" fill="#d4d4d4" textLength="8.4" lengthAdjust="spacing">8</text>
+<text class="crt" x="596.4" y="140" fill="#d4d4d4" textLength="8.4" lengthAdjust="spacing">9</text>
 <text class="crt" x="0" y="158" fill="#F63B3B" textLength="58.8" lengthAdjust="spacing" style="font-weight:bold;">(((((((</text>
 <text class="crt" x="235.2" y="158" fill="#F63B3B" textLength="58.8" lengthAdjust="spacing" style="font-weight:bold;">//(((((</text>
-<text class="crt" x="394.8" y="158" fill="#d4d4d4" textLength="25.2" lengthAdjust="spacing">38%</text>
+<text class="crt" x="394.8" y="158" fill="#d4d4d4" textLength="25.2" lengthAdjust="spacing">36%</text>
 <text class="crt" x="428.4" y="158" fill="#d4d4d4" textLength="33.6" lengthAdjust="spacing">João</text>
 <text class="crt" x="470.4" y="158" fill="#d4d4d4" textLength="42" lengthAdjust="spacing">Vitor</text>
 <text class="crt" x="520.8" y="158" fill="#d4d4d4" textLength="42" lengthAdjust="spacing">Hobus</text>
@@ -105,7 +105,7 @@ text {
 <text class="crt" x="100.8" y="212" fill="#F63B3B" textLength="184.8" lengthAdjust="spacing" style="font-weight:bold;">(((((/////////////((((</text>
 <text class="crt" x="319.2" y="212" fill="#F63B3B" textLength="58.8" lengthAdjust="spacing" style="font-weight:bold;">Commits</text>
 <text class="crt" x="378" y="212" fill="#FEFEFE" textLength="8.4" lengthAdjust="spacing" style="font-weight:bold;">:</text>
-<text class="crt" x="394.8" y="212" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacing">13</text>
+<text class="crt" x="394.8" y="212" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacing">14</text>
 <text class="crt" x="8.4" y="230" fill="#F63B3B" textLength="50.4" lengthAdjust="spacing" style="font-weight:bold;">((((((</text>
 <text class="crt" x="226.8" y="230" fill="#F63B3B" textLength="58.8" lengthAdjust="spacing" style="font-weight:bold;">///((((</text>
 <text class="crt" x="319.2" y="230" fill="#F63B3B" textLength="42" lengthAdjust="spacing" style="font-weight:bold;">Churn</text>
